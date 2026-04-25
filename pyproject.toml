@@ -43,8 +43,8 @@ dev = [
 gsc-mcp = "gsc_mcp.__main__:main"
 
 [project.urls]
-Homepage = "https://github.com/rockcliff/gsc-mcp"
-Issues = "https://github.com/rockcliff/gsc-mcp/issues"
+Homepage = "https://github.com/jayrockliffe-defused/gsc-mcp"
+Issues = "https://github.com/jayrockliffe-defused/gsc-mcp/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["gsc_mcp"]
