@@ -3,6 +3,7 @@
 [![PyPI version](https://badge.fury.io/py/gsc-mcp.svg)](https://pypi.org/project/gsc-mcp/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Glama MCP server](https://glama.ai/mcp/servers/jayrockliffe-defused/gsc-mcp/badges/score.svg)](https://glama.ai/mcp/servers/jayrockliffe-defused/gsc-mcp)
 
 **Google Search Console as MCP tools** — query search analytics, inspect URLs, and monitor SEO performance from any MCP-compatible AI client (Claude Desktop, Claude Code, Claude.ai, Gemini CLI, Cursor, etc.).
 
