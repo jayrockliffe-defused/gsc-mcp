@@ -1,5 +1,9 @@
 # gsc-mcp
 
+[![PyPI version](https://badge.fury.io/py/gsc-mcp.svg)](https://pypi.org/project/gsc-mcp/)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 **Google Search Console as MCP tools** — query search analytics, inspect URLs, and monitor SEO performance from any MCP-compatible AI client (Claude Desktop, Claude Code, Claude.ai, Gemini CLI, Cursor, etc.).
 
 Zero vendor middleware. Zero ongoing cost. Each user authenticates with their own Google account against Google's free Search Console API.
@@ -54,11 +58,13 @@ Three steps. ~15 minutes total.
 ### 2. Install the server
 
 ```bash
-# From this repository:
-pip install --user .
-
-# Or, once published to PyPI:
 pipx install gsc-mcp
+```
+
+Or with pip:
+
+```bash
+pip install gsc-mcp
 ```
 
 This installs the `gsc-mcp` console command and the `gsc_mcp` Python module.
